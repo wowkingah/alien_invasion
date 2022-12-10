@@ -21,3 +21,8 @@ $ pip3 install -r requirements.txt
 # 运行
 $ python alien_invasion.py
 ```
+
+# 
+![](.README_images/313a0edd.png)
+
+![](.README_images/93c92340.png)
