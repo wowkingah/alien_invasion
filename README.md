@@ -22,7 +22,11 @@ $ pip3 install -r requirements.txt
 $ python alien_invasion.py
 ```
 
-# 
+# 创建飞船、驾驭飞船
 ![](.README_images/313a0edd.png)
 
+# 增加外星人与射击
 ![](.README_images/93c92340.png)
+
+## 显示当前得分与最高得分
+![](.README_images/b0321708.png)
