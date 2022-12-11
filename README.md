@@ -22,7 +22,7 @@ $ pip3 install -r requirements.txt
 $ python alien_invasion.py
 ```
 
-#
+# 界面截图
 ## 创建飞船、驾驭飞船
 ![](.README_images/313a0edd.png)
 
@@ -35,3 +35,5 @@ $ python alien_invasion.py
 ## 显示等级
 ![](.README_images/152dcb34.png)
 
+## 显示余下飞船数
+![](.README_images/64349414.png)
